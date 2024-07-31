@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176341317216",
+    "project_id": "recipe-book-62637",
+    "storage_bucket": "recipe-book-62637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176341317216:android:8ba093d1f61c135debf505",
+        "android_client_info": {
+          "package_name": "com.hanan.recipe_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMQxOvWwDETIzWPlFWdp312n6DWvotsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
